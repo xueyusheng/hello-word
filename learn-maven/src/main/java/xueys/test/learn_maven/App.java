@@ -7,7 +7,7 @@ package xueys.test.learn_maven;
 public class App 
 {
 	public static void test(){
-		System.out.println("sdfsdf");
+		System.out.println("sdfsdfdsfsdfsdf");
 	}
     public static void main( String[] args )
     {
